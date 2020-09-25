@@ -1,0 +1,2 @@
+language = "go"
+run = "nvidia-clerk-windows.exe -region=REGION_CODE_HERE -model=3080"

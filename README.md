@@ -3,7 +3,7 @@
 `nvidia-clerk` is a command line tool written to help you get an RTX 3XXX series GPU.
 
 ![alt text](.github/resources/images/example.png)
-
+[![Run on Repl.it](https://repl.it/badge/github/ianmarmour/nvidia-clerk)](https://repl.it/github/ianmarmour/nvidia-clerk)
 ## Background
 `nvidia-clerk` was written in response to the recent NVIDIA RTX 3080 release debacle. During the launch multiple different groups of scalpers used
 private bots to procure large quantities of NVIDIA GPU's and most consumers were left without being able to purchase the product. This 
